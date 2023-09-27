@@ -1,0 +1,77 @@
+body{
+    background-color: #1A202C;
+    color: white;
+}
+
+.resetbtn{
+    background-color:#33A0FF;
+    margin: 2%;
+    height: 32px;
+    width: 5%;
+    color: white;
+    border: 0px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.inputb{
+    background-color: #2D3748;
+    border: 0;
+    height: 32px;
+    width: 50%;
+    border-radius: 8px;
+    color: white;
+    font-size: 15px;
+}
+
+.subdiv{
+    display: block;
+    background-color: #171923;
+    min-height: 250px;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.subdiv1{
+    display: block;
+    background-color: #1A202C;
+    min-height: 250px;
+    width: 80%;
+    margin-left: 10%;
+    padding: 10px;
+}
+
+.addbtn{
+    background-color: #ffd69f;
+    margin-left: 2%;
+    border: 0;
+    height: 32px;
+    width: 5%;
+    border-radius: 8px;
+    color: white;
+    font-size: 15px;
+}
+
+.taskList{
+    text-align: left;
+    margin-left:1%;
+    font-size: 1.1em;
+    padding: 5px;
+    text-transform: capitalize;
+}
+
+.title{
+    font-size: 25px;
+    text-align: center;
+}
+
+.currentBtn{
+    background-color: #1A202C;
+    color: white;
+    border: 0px;
+    font-size: 25px;
+    margin-left: 2%;
+}
